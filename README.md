@@ -13,11 +13,6 @@ Full-stack To-Do List application with React, Node.js, Express, and PostgreSQL
 - Database: PostgreSQL
 
 # How to Run
-
-# Prerequisites
-- Node.js (v16+)
-- PostgreSQL
-
 # Steps
 
 1. Clone repository
